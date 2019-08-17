@@ -1,0 +1,7 @@
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\COMPUTRON\Desktop\clase3\Solution2\CapaDatos\obj\Debug\CapaDatos.pdb
